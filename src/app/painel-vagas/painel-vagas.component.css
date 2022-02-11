@@ -1,0 +1,19 @@
+h2 {
+    background-color: rgb(146, 192, 21);
+}
+
+#colorform {
+    background-color: rgb(146, 192, 21);
+    font-weight: 500;
+}
+
+.nav justify-content-center {
+    margin-right: 10px;
+}
+label {
+    margin-right: 10px;
+}
+
+button {
+    background-color: bisque;
+}
